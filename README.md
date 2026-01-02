@@ -32,6 +32,7 @@ CSS
 JavaScript (Webcam + Fetch API)
 
 **📁 Project Structure**
+
 <img width="416" height="511" alt="image" src="https://github.com/user-attachments/assets/f0200948-62ff-4b92-865e-dc1c98171897" />
 
 
